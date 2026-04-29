@@ -16,3 +16,6 @@ console.log("TEST 14 \n");
 console.log("TEST 15 \n");
 console.log("TEST 16 \n");
 console.log("TEST 17 \n");
+console.log("Remove \n");
+console.log("TEST 19 \n");
+
